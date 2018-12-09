@@ -1,4 +1,4 @@
-import Users.*;
+import Users.Role;
 
 public class ShopAppClient {
     public static void main(String[] args) {
